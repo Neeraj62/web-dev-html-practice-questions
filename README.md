@@ -1,3 +1,20 @@
+
+
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![Beginner Friendly](https://img.shields.io/badge/Level-Beginner-green)
+![Practice](https://img.shields.io/badge/Focus-Interview%20Preparation-blue)
+
+
+
+
+
+
+
+
+
+
+
+
 # 🌐 HTML Interview Practice Repository
 
 <p align="center">
